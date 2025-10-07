@@ -9,6 +9,9 @@ def main():
     result = add_numbers(5, 3)
     print(f"5 + 3 = {result}")
 
+
+    print("I made a change as part of the assessment")
+
 if __name__ == "__main__":
     main()
 
